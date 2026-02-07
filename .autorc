@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "JerryGarcia1942",
+  "repo": "container-zpzkk8q",
+  "name": "JerryGarcia1942",
+  "email": "spammail@member.fsf.org",
+}
